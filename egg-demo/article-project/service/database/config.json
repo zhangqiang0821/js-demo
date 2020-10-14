@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "zq888666",
+    "database": "article",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "zq888666",
+    "database": "article",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "zq888666",
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
